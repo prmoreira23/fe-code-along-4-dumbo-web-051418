@@ -114,3 +114,8 @@ img, video, audio {
 .first {
     margin-left: 0%;
 }
+
+/* Section */
+section {
+    margin-bottom: 20px;
+}
